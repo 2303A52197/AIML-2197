@@ -15,4 +15,6 @@ https://github.com/2303A52197/AIML-2197/blob/main/AIML_LAB_ASSIGNMENT_7.ipynb
 
 https://github.com/2303A52197/AIML-2197/blob/main/AIML_LAB_ASSIGNMENT_8.ipynb
 
+https://github.com/2303A52197/AIML-2197/blob/main/AIML_LAB_ASSIGNMENT_9.ipynb
+
 https://github.com/2303A52197/AIML-2197/blob/main/AIML_LAB_ASSIGNMENT_10.ipynb
